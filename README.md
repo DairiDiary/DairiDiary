@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...Radio
 - 🌱 I’m currently learning ...ICT
 - 💞️ I’m looking to collaborate on ...person
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...zhanglaizhiye@gmail.com
+- 😄 Pronouns: ...he his him
+- ⚡ Fun fact: ...Salmon is White-fleshed fish.
 
 <!---
 DairiDiary/DairiDiary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
